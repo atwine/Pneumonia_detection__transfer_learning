@@ -40,3 +40,18 @@ def add_new_last_layer(base_model, nb_classes):
 ```
 
 That is where the magic happens. Some of the notebooks are still under training so ignore some of the mistakes that you may notice.
+
+To work with this repo just do the following:
+
+1- Clone the repo to your hard disk
+
+```
+git clone https://github.com/atwine/Pneumonia_detection_resnet50_transfer_learning.git
+
+``
+
+2- Fire up jupyter notebooks and run the notebook locally.
+
+I have made it easy to follow through the steps so run the cells as they come. To use the kaggle function please find an authentication token from your kaggle account and keep it in the same folder you downloaded.
+
+Happy coding!

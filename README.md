@@ -48,7 +48,7 @@ To work with this repo just do the following:
 ```
 git clone https://github.com/atwine/Pneumonia_detection_resnet50_transfer_learning.git
 
-``
+```
 
 2- Fire up jupyter notebooks and run the notebook locally.
 
